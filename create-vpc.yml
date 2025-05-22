@@ -10,7 +10,7 @@ Resources:
       EnableDnsHostnames: 'true'
       Tags:
         - Key: Name
-          Value: 'MyVPCDemo'
+          Value: 'MyVPCDemo_update'
 
   InternetGateway:
     Type: 'AWS::EC2::InternetGateway'
